@@ -10,4 +10,8 @@ public class NewTest1 {
 	public void GitTestMethod1() {
 		  System.out.println("GitTestMethod1");
 }
+	@Test
+	public void GitTestMethod2() {
+		  System.out.println("GitTestMethod2");
+}
 }
