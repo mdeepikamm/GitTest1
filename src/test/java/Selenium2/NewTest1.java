@@ -18,4 +18,8 @@ public class NewTest1 {
 	public void GitTestMethod3() {
 		  System.out.println("GitTestMethod3");
 }
+	@Test
+	public void GitTestMethodbranch() {
+		  System.out.println("GitTestMethodbranch");
+}
 }
