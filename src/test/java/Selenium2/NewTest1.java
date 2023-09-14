@@ -14,4 +14,8 @@ public class NewTest1 {
 	public void GitTestMethod2() {
 		  System.out.println("GitTestMethod2");
 }
+	@Test
+	public void GitTestMethod3() {
+		  System.out.println("GitTestMethod3");
+}
 }
